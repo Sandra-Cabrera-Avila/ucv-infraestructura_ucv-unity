@@ -20,8 +20,11 @@ Incluye diferentes cámaras para visualizar pabellones (A, B, C) y una vista pan
 - Assets de Unity para terreno
 
 ## 📸 Capturas de pantalla
-![Vista panorámica](screenshots/captura1.png)
-![Detalle de pabellón](screenshots/captura2.png)
+![Vista Panorámica](screenshots/Panoramica.png)
+![Vista Pabellón A](screenshots/PabellónA.png)
+![Vista Pabellón B](screenshots/PabellónB.png)
+![Vista Pabellón C](screenshots/PabellónC.png)
+![Vista Interior](screenshots/VistaInterior.png)
 
 ## 🎥 Demo en video
 👉 Mira el recorrido aquí: [Video en YouTube](https://youtu.be/eDFU0KUwVFA)
