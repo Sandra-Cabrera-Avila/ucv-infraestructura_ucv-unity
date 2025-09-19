@@ -21,10 +21,10 @@ Incluye diferentes cámaras para visualizar pabellones (A, B, C) y una vista pan
 
 ## 📸 Capturas de pantalla
 ![Vista Panorámica](Panoramica.png)
-![Vista Pabellón A](screenshots/PabellónA.png)
-![Vista Pabellón B](screenshots/PabellónB.png)
-![Vista Pabellón C](screenshots/PabellónC.png)
-![Vista Interior](screenshots/VistaInterior.png)
+![Vista Pabellón A](PabellónA.png)
+![Vista Pabellón B](PabellónB.png)
+![Vista Pabellón C](PabellónC.png)
+![Vista Interior](VistaInterior.png)
 
 ## 🎥 Demo en video
 👉 Mira el recorrido aquí: [Video en YouTube](https://youtu.be/eDFU0KUwVFA)
