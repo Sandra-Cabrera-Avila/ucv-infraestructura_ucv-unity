@@ -20,7 +20,7 @@ Incluye diferentes cámaras para visualizar pabellones (A, B, C) y una vista pan
 - Assets de Unity para terreno
 
 ## 📂 Código del proyecto  
-🔹 Script principal para el cambio de cámaras: [CambiarCamara.cs](scripts/CambiarCamara.cs)  
+🔹 Script principal para el cambio de cámaras: [CambiarCamara.cs](CambiarCamara.cs)  
 
 ## 📸 Capturas de pantalla
 ![Vista Panorámica](Panoramica.png)
