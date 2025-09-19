@@ -27,7 +27,8 @@ Incluye diferentes cámaras para visualizar pabellones (A, B, C) y una vista pan
 ![Vista Interior](VistaInterior.png)
 
 ## 🎥 Demo en video
-👉 Mira el recorrido aquí: [Video en YouTube](https://youtu.be/eDFU0KUwVFA)
+👉 Mira el recorrido aquí: <a href="https://youtu.be/eDFU0KUwVFA" target="_blank">Video en YouTube</a>
+
 
 ## 👩‍💻 Autor
 Proyecto académico realizado por **Sandra Cabrera Avila**.
