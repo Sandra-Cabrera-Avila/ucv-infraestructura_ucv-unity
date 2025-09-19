@@ -20,7 +20,7 @@ Incluye diferentes cámaras para visualizar pabellones (A, B, C) y una vista pan
 - Assets de Unity para terreno
 
 ## 📸 Capturas de pantalla
-![Vista Panorámica](https://github.com/Sandra-Cabrera-Avila/ucv-infraestructura_ucv-unity/blob/main/Pabell%C3%B3nA.png)
+![Vista Panorámica](screenshots/Panoramica.png)
 ![Vista Pabellón A](screenshots/PabellónA.png)
 ![Vista Pabellón B](screenshots/PabellónB.png)
 ![Vista Pabellón C](screenshots/PabellónC.png)
